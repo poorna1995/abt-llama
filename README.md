@@ -41,6 +41,8 @@
 | Falcon 180B    | 180B                                          | 2023    | -           | ✓           | Decoder-Only    | 3.5T     | RefinedWeb                                                                       |
 | TinyLlama-1.1B | 1.1B                                          | 2024    | LLaMA1.1B   | ✓           | Decoder-Only    | 3T       | SlimPajama, Starcoderdata                                                        |
 
+![alt text](image-2.png)
+
 #### Evalutaion metric
 
 | Benchmark Name                | Evaluation Metric                                                                               | Leaderboard                                    | Source                                       | paper with code                                                      |
