@@ -1,8 +1,8 @@
-![alt text](image.png)
+![alt text](llm.png)
 
 ## LLM?
 
-![alt text](LLM1.png)
+![alt text](LLM1-2.png)
 
 ### LLM Models
 
